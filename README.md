@@ -2,7 +2,7 @@
 
  ### Usage-
  
-`gain root access using su root (sudo passwd if you didn't set password before)` 
+`gain root access using <su root> , <sudo passwd> if you didn't set password before` 
 
 `yum install git`
 
