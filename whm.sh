@@ -26,5 +26,7 @@ Port 2087
 ( •_•)
 />    Kbye\e[0m
 
+"
+
 echo -e "\e[1;31m▄▄▄▄▄▄▄▄▄▄▄ Script by @icecrac34r_hem ▄▄▄▄▄▄▄▄▄▄▄\e[0m"
 
